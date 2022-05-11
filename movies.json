@@ -1,0 +1,170 @@
+[
+   {
+      "name":"Captain America: The First Avenger",
+      "email":"Captain America: The First Avenger@gmail.com",
+      "description":"This is Captain America: The First Avenger",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamerica_lob_crd_01.jpg"
+   },
+   {
+      "name":"Captain Marvel",
+      "email":"Captain Marvel@gmail.com",
+      "description":"This is Captain Marvel",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainmarvel_lob_crd_06.jpg"
+   },
+   {
+      "name":"Iron Man",
+      "email":"Iron Man@gmail.com",
+      "description":"This is Iron Man",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman_lob_crd_01_3.jpg"
+   },
+   {
+      "name":"The Incredible Hulk",
+      "email":"The Incredible Hulk@gmail.com",
+      "description":"This is The Incredible Hulk",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/theincrediblehulk_lob_crd_01_2.jpg"
+   },
+   {
+      "name":"Iron Man 2",
+      "email":"Iron Man 2@gmail.com",
+      "description":"This is Iron Man 2",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman2_lob_crd_01_3.jpg"
+   },
+   {
+      "name":"Thor",
+      "email":"Thor@gmail.com",
+      "description":"This is Thor",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/thor_lob_crd_01.jpg"
+   },
+   {
+      "name":"Marvel’s The Avengers",
+      "email":"Marvel’s The Avengers@gmail.com",
+      "description":"This is Marvel’s The Avengers",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03.jpg"
+   },
+   {
+      "name":"Iron Man 3",
+      "email":"Iron Man 3@gmail.com",
+      "description":"This is Iron Man 3",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman3_lob_crd_01_10.jpg"
+   },
+   {
+      "name":"Thor: The Dark World",
+      "email":"Thor: The Dark World@gmail.com",
+      "description":"This is Thor: The Dark World",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorthedarkworld_lob_crd_02_1.jpg"
+   },
+   {
+      "name":"Captain America: The Winter Soldier",
+      "email":"Captain America: The Winter Soldier@gmail.com",
+      "description":"This is Captain America: The Winter Soldier",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericathewintersoldier_lob_crd_01_1.jpg"
+   },
+   {
+      "name":"Guardians of the Galaxy",
+      "email":"Guardians of the Galaxy@gmail.com",
+      "description":"This is Guardians of the Galaxy",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxy_lob_crd_03.jpg"
+   },
+   {
+      "name":"Guardians of the Galaxy Vol. 2",
+      "email":"Guardians of the Galaxy Vol. 2@gmail.com",
+      "description":"This is Guardians of the Galaxy Vol. 2",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvol.2_lob_crd_01.jpg"
+   },
+   {
+      "name":"Avengers: Age of Ultron",
+      "email":"Avengers: Age of Ultron@gmail.com",
+      "description":"This is Avengers: Age of Ultron",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersageofultron_lob_crd_03.jpg"
+   },
+   {
+      "name":"Ant-Man",
+      "email":"Ant-Man@gmail.com",
+      "description":"This is Ant-Man",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-man_lob_crd_01_8.jpg"
+   },
+   {
+      "name":"Captain America: Civil War",
+      "email":"Captain America: Civil War@gmail.com",
+      "description":"This is Captain America: Civil War",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericacivilwar_lob_crd_01_9.jpg"
+   },
+   {
+      "name":"Black Widow",
+      "email":"Black Widow@gmail.com",
+      "description":"This is Black Widow",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackwidow_lob_crd_06.jpg"
+   },
+   {
+      "name":"Spider-Man: Homecoming",
+      "email":"Spider-Man: Homecoming@gmail.com",
+      "description":"This is Spider-Man: Homecoming",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manhomecoming_lob_crd_01_3.jpg"
+   },
+   {
+      "name":"Black Panther",
+      "email":"Black Panther@gmail.com",
+      "description":"This is Black Panther",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpanther_lob_crd_01_4.jpg"
+   },
+   {
+      "name":"Doctor Strange",
+      "email":"Doctor Strange@gmail.com",
+      "description":"This is Doctor Strange",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrange_lob_crd_01_6.jpg"
+   },
+   {
+      "name":"Thor: Ragnarok",
+      "email":"Thor: Ragnarok@gmail.com",
+      "description":"This is Thor: Ragnarok",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorragnarok_lob_crd_03.jpg"
+   },
+   {
+      "name":"Ant-Man and the Wasp",
+      "email":"Ant-Man and the Wasp@gmail.com",
+      "description":"This is Ant-Man and the Wasp",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-manthewasp_lob_crd_01.jpg"
+   },
+   {
+      "name":"Avengers: Infinity War",
+      "email":"Avengers: Infinity War@gmail.com",
+      "description":"This is Avengers: Infinity War",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersinfinitywar_lob_crd_02_1.jpg"
+   },
+   {
+      "name":"Avengers: Endgame",
+      "email":"Avengers: Endgame@gmail.com",
+      "description":"This is Avengers: Endgame",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05_2.jpg"
+   },
+   {
+      "name":"Spider-Man: Far From Home",
+      "email":"Spider-Man: Far From Home@gmail.com",
+      "description":"This is Spider-Man: Far From Home",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfarfromhome_lob_crd_04_3.jpg"
+   },
+   {
+      "name":"Eternals",
+      "email":"Eternals@gmail.com",
+      "description":"This is Eternals",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/eternals_lob_crd_06.jpg"
+   },
+   {
+      "name":"Shang-Chi and the Legend of the Ten Rings",
+      "email":"Shang-Chi and the Legend of the Ten Rings@gmail.com",
+      "description":"This is Shang-Chi and the Legend of the Ten Rings",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/shangchi_lob_crd_07.jpg"
+   },
+   {
+      "name":"Spider-Man: No Way Home",
+      "email":"Spider-Man: No Way Home@gmail.com",
+      "description":"This is Spider-Man: No Way Home",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-mannowayhome_lob_crd_03.jpg"
+   },
+   {
+      "name":"Doctor Strange in the Multiverse of Madness",
+      "email":"Doctor Strange in the Multiverse of Madness@gmail.com",
+      "description":"This is Doctor Strange in the Multiverse of Madness",
+      "avatarUrl":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg"
+   }
+]
